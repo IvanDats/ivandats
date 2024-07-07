@@ -7,5 +7,8 @@
 ![Python](https://img.shields.io/badge/-Python-001842?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-001842?style=for-the-badge&logo=mysql)
 ![Jira](https://img.shields.io/badge/-Jira-001842?style=for-the-badge&logo=jira)
+![Qase](https://img.shields.io/badge/-Qase-001842?style=for-the-badge&logo=qase)
+![Azure_DevOps](https://img.shields.io/badge/-Azure_Devops-001842?style=for-the-badge)
+![github](https://img.shields.io/badge/-github-001842?style=for-the-badge&logo=github)
 
 Follow Me
