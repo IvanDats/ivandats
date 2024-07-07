@@ -16,5 +16,5 @@
 
 ### Follow Me
 [![linkedin](https://img.shields.io/badge/-linkedin-001842?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/datskoivan)
-![instagram](https://img.shields.io/badge/-instagram-001842?style=for-the-badge&logo=instagram)
-![telegram](https://img.shields.io/badge/-telegram-001842?style=for-the-badge&logo=telegram)
+[![instagram](https://img.shields.io/badge/-instagram-001842?style=for-the-badge&logo=instagram)](https://www.instagram.com/datskoiv/)
+[![telegram](https://img.shields.io/badge/-telegram-001842?style=for-the-badge&logo=telegram)](https://t.me/Ivan_Datsko)
