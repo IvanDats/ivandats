@@ -15,6 +15,6 @@
 ![apache](https://img.shields.io/badge/-apache-001842?style=for-the-badge&logo=apache)
 
 ### Follow Me
-[![linkedin](https://img.shields.io/badge/-linkedin-001842?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/datskoivan)
+[![linkedin](https://img.shields.io/badge/-linkedin-001842?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/datskoivan)
 ![instagram](https://img.shields.io/badge/-instagram-001842?style=for-the-badge&logo=instagram)
 ![telegram](https://img.shields.io/badge/-telegram-001842?style=for-the-badge&logo=telegram)
